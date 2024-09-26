@@ -7,14 +7,14 @@ This app provide a login page. It is done with:
   - MongoDB
   - DataTable Prime
   - Typescript
-  - Tailwind 
+  - Tailwind
   - Hooks
   - React
 
-The final version can be found here: https://next-next-auth-datatable-prime-data-table-customer.vercel.app
+The final version can be found here: https://next-data-table.vercel.app
 
 <p align="center">
-    <a target="_blank" href="https://next-next-auth-datatable-prime-data-table-customer.vercel.app">
+    <a target="_blank" href="https://next-data-table.vercel.app">
       <img src="./public/images/app-login.PNG" width="70%"/>
     </a>
 </p>
