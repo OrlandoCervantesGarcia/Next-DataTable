@@ -1,0 +1,82 @@
+[{
+  "_id": {
+    "$oid": "66cfd20f50b3abeef5ff8656"
+  },
+  "email": "jose@prueba.com",
+  "password": "$2a$05$Aj0FAf9pmIKKdh/XNdOJ6.yCmgFyvwn8nUXUlY9FYhDD6fewX0BJq",
+  "createdAt": {
+    "$date": "2024-08-29T01:42:39.754Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-29T01:42:39.754Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66cfd23250b3abeef5ff8659"
+  },
+  "email": "jvqhjose@gmail.com",
+  "createdAt": {
+    "$date": "2024-08-29T01:43:14.713Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-29T01:43:14.713Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66cfde4650b3abeef5ff865e"
+  },
+  "email": "jvqhecommerce@gmail.com",
+  "createdAt": {
+    "$date": "2024-08-29T02:34:46.404Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-29T02:34:46.404Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66d11d284a3c9995604109d0"
+  },
+  "email": "jose@gmail.com",
+  "password": "$2a$05$KSnVyRkMnrEghqGb7bWhAujZHLRTN9MSt/ymWibNZvfqjtQt0NLnW",
+  "createdAt": {
+    "$date": "2024-08-30T01:15:20.793Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-30T01:15:20.793Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66d503a4810829330fcad18f"
+  },
+  "email": "colombia@super.com",
+  "password": "$2a$05$iBDyHP6vBlwY/TpgPgDGH.y9HXPAjQdWCKROa9pz5P4l29MJvhhRm",
+  "createdAt": {
+    "$date": "2024-09-02T00:15:32.202Z"
+  },
+  "updatedAt": {
+    "$date": "2024-09-02T00:15:32.202Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66d504b2810829330fcad196"
+  },
+  "email": "adrianabdi@mx.com",
+  "password": "$2a$05$q94xgz4mDULuoO8Emuyzd.evO1MsU7PyDOfR7oNi1e7DQ7eyubVwS",
+  "createdAt": {
+    "$date": "2024-09-02T00:20:02.155Z"
+  },
+  "updatedAt": {
+    "$date": "2024-09-02T00:20:02.155Z"
+  },
+  "__v": 0
+}]
